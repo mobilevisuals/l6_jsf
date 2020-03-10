@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="JSF" type="jsf">
+    <CLASSES>
+      <root url="jar://C:/nack/2020/libs/javaee-api-8.0.jar!/" />
+      <root url="jar://C:/nack/2020/libs/javax.faces-api-2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
